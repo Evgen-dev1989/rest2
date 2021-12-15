@@ -4,8 +4,8 @@
   "reference" : [
     {
       "name" : "Kiev-Pechersk Lavra",
-      "Year of construction " : 1051 ,
-      "location area" : "Kiev ",
+      "age " : 1051 ,
+      "location " : "Kiev ",
       "facts" : [
         "the first monastery in Russia",
         "majestic temples",
@@ -14,8 +14,8 @@
     },
     {
       "name" : "Independence Square",
-      "Year of construction " : 1869 ,
-      "location area" : "Kiev ",
+      "age " : 1869 ,
+      "location " : "Kiev ",
       "facts" : [
         "Declaration of independence of Ukraine",
         "the main square of the capital",
@@ -24,8 +24,8 @@
     },
     {
       "name" : "Deribasovskaya street",
-      "Year of construction " : 1804 ,
-      "location area" : "Odessa ",
+      " age " : 1804 ,
+      "location " : "Odessa ",
       "facts" : [
         "Odessa - southern pearl",
         "sung in poetry and songs",
@@ -34,8 +34,8 @@
     },
  {
       "name" : "Khotyn fortress",
-      "Year of construction " : 1325 ,
-      "location area" : "Khotin ",
+      "age " : 1325 ,
+      "location " : "Khotin",
       "facts" : [
         "over 1000 years old",
         "monument to hetman Peter Sagaidachny",
@@ -44,8 +44,8 @@
     },
 {
       "name" : "Tunnel of love",
-      "Year of construction " : 2011 ,
-      "location area" : "Klevan ",
+      "age " : 2011 ,
+      "location" : "Klevan ",
       "facts" : [
         "forest area",
         "this attraction is popular among romantics",
