@@ -6,7 +6,7 @@
       "name" : "Kiev-Pechersk Lavra",
       "age" : 970 ,
       "location" : "Kiev ",
-      "photo" : "https://github.com/Evgen-dev1989/rest2/blob/main/img/Kiev-Pechersk%20Lavra.jpg",
+      "photo" : "https://raw.githubusercontent.com/Evgen-dev1989/rest2/main/img/Kiev-Pechersk%20Lavra.jpg",
       "facts" : [
         "the first monastery in Russia",
         "majestic temples",
@@ -17,7 +17,7 @@
       "name" : "Independence Square",
       "age" : 152 ,
       "location" : "Kiev ",
-      "photo" : "https://github.com/Evgen-dev1989/rest2/blob/main/img/Independence%20Square.jpg",
+      "photo" : "https://raw.githubusercontent.com/Evgen-dev1989/rest2/main/img/Independence%20Square.jpg",
       "facts" : [
         "Declaration of independence of Ukraine",
         "the main square of the capital",
@@ -28,7 +28,7 @@
       "name" : "Deribasovskaya street",
       "age" :217 ,
       "location" : "Odessa ",
-      "photo" : "https://github.com/Evgen-dev1989/rest2/blob/main/img/Deribasovskaya%20street.jpg",
+      "photo" : "https://raw.githubusercontent.com/Evgen-dev1989/rest2/main/img/Deribasovskaya%20street.jpg",
       "facts" : [
         "Odessa - southern pearl",
         "sung in poetry and songs",
@@ -39,7 +39,7 @@
       "name" : "Khotyn fortress",
       "age" : "696" ,
       "location" : "Khotyn ",
-       "photo" : "https://github.com/Evgen-dev1989/rest2/blob/main/img/Khotyn%20fortress.jpg",
+       "photo" : "https://raw.githubusercontent.com/Evgen-dev1989/rest2/main/img/Khotyn%20fortress.jpg",
       "facts" : [
         "The city of two worlds - Muslim and Christian",
         "monument to hetman Peter Sagaidachny",
@@ -50,7 +50,7 @@
       "name" : "Tunnel of love",
       "age" : "10" ,
       "location" : "Klevan ",
-      "photo" : "https://github.com/Evgen-dev1989/rest2/blob/main/img/Tunnel%20of%20love.jpg",
+      "photo" : "https://raw.githubusercontent.com/Evgen-dev1989/rest2/main/img/Tunnel%20of%20love.jpg",
       "facts" : [
         "forest area",
         "this attraction is popular among romantics",
