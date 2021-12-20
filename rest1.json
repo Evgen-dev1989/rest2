@@ -4,7 +4,7 @@
   "reference" : [
     {
       "name" : "Kiev-Pechersk Lavra",
-      "foundation date" : 1051 ,
+      "age" : 1051 ,
       "location" : "Kiev ",
       "facts" : [
         "the first monastery in Russia",
@@ -14,7 +14,7 @@
     },
     {
       "name" : "Independence Square",
-      "foundation date" : "1869" ,
+      "age" : "1869" ,
       "location" : "Kiev ",
       "facts" : [
         "Declaration of independence of Ukraine",
@@ -24,7 +24,7 @@
     },
     {
       "name" : "Deribasovskaya street",
-      "foundation date" :" 1804" ,
+      "age" :" 1804" ,
       "location" : "Odessa ",
       "facts" : [
         "Odessa - southern pearl",
@@ -34,7 +34,7 @@
     },
  {
       "name" : "Khotyn fortress",
-      "foundation date" :" 1325" ,
+      "age" :" 1325" ,
       "location" : "Khotyn ",
       "facts" : [
         "over 1000 years old",
@@ -44,7 +44,7 @@
     },
 {
       "name" : "Tunnel of love",
-      "foundation date" : "2011" ,
+      "age" : "2011" ,
       "location" : "Klevan ",
       "facts" : [
         "forest area",
